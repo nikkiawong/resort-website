@@ -1,0 +1,58 @@
+img {
+  width: 1200px;
+}
+
+body {
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 130px;
+  margin-bottom: 130px;
+  background-color: #f7f7e8;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Alex Brush', cursive;
+  line-height: 5px;
+}
+
+h2 {
+  font-size: 18px;
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 18px;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  margin-left: 25px;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+}
+
+a {
+  color: #428aff;
+  text-decoration: none;
+}
+
+h3 {
+  font-family: 'Alex Brush', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 25px;
+}
